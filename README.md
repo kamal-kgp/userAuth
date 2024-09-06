@@ -32,6 +32,15 @@ This is a full-stack web application that enables users to register, log in, and
 - **Mongoose**: A orm for mongodb
 ---
 
+### Page URLs (Frontend)
+
+	•	/ -> Home Page
+	•	/user/login -> Login Page for User
+	•	/user/register -> Register Page for User
+	•	/user/home -> Home Page for User after login
+	•	/admin/home -> Home Page for Admin
+---
+
 ## Getting Started
 
 ### Prerequisites
