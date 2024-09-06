@@ -1,3 +1,19 @@
+## Table of Contents
+
+ - [Overview](#overview)            
+ - [Features](#features)            
+ - [Technologies Used](#technologies-used) 
+ - [Page URLs (Frontend)](#page-urls-frontend) 
+ - [Getting Started](#getting-started) 
+ - [Project Structure](#project-structure) 
+ - [API Endpoints](#api-endpoints)  
+ - [Usage](#usage)                  
+ - [License](#license)              
+ - [Contributors](#contributors)    
+ - [Issues](#issues)                
+
+---
+
 ## Overview
 
 This is a full-stack web application that enables users to register, log in, and manage their details. The admin can view all registered users, update user information, and reset passwords. The frontend is built using **React** and **Tailwind CSS**, while the backend is implemented using **Node.js**, **Express**, and **MongoDB**.
